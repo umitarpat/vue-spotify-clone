@@ -1,5 +1,5 @@
 # vue-spotify-clone
-
+[click for demo](http://umitarpat.com/vue-spotify-clone/)
 ## Project setup
 ```
 npm install
