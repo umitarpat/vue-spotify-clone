@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c53c59b6-0572-466a-89cb-6a69c1b236ed" name="Default" comment="">
+    <list default="true" id="c53c59b6-0572-466a-89cb-6a69c1b236ed" name="Default" comment="update README.md file and workspace.xml file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,17 +49,42 @@
       <option name="presentableId" value="Default" />
       <updated>1645991138125</updated>
       <workItem from="1645991139983" duration="45000" />
-      <workItem from="1645991704226" duration="642000" />
+      <workItem from="1645991704226" duration="1048000" />
+      <workItem from="1645992959969" duration="44000" />
+      <workItem from="1647895019873" duration="42000" />
+      <workItem from="1648846288240" duration="24000" />
+      <workItem from="1649180572721" duration="250000" />
+      <workItem from="1649277329767" duration="10000" />
     </task>
+    <task id="LOCAL-00001" summary="update README.md file and workspace.xml file">
+      <created>1645992440685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645992440685</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update README.md file and workspace.xml file">
+      <created>1645992553178</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645992553178</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update README.md file and workspace.xml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md file and workspace.xml file" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="203" y="23" key="CommitChangelistDialog2" timestamp="1645992439887">
-      <screen x="0" y="23" width="1280" height="730" />
+    <state x="203" y="23" key="CommitChangelistDialog2" timestamp="1645992567470">
+      <screen x="0" y="23" width="1280" height="729" />
     </state>
+    <state x="203" y="23" key="CommitChangelistDialog2/0.23.1280.729@0.23.1280.729" timestamp="1645992567470" />
     <state x="203" y="23" key="CommitChangelistDialog2/0.23.1280.730@0.23.1280.730" timestamp="1645992439887" />
   </component>
 </project>
